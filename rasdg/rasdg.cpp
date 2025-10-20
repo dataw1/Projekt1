@@ -7,7 +7,12 @@ using namespace std;
 
 int main()
 {
-    cout << "Test au" << endl;
+    int a, b, c;
+    cout << "Testowy kalkulator do testowania githuba" << endl;
+    cout << "Podaj pierwsza liczbe";
+    cin >> a;
+    cout << "Podaj druga liczbe";
+    cin >> b;
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
